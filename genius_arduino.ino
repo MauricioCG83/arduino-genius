@@ -81,6 +81,7 @@ void aguardarJogador() {
         }
       }
     }
+     
     //verificar a jogada
     if (sequencia[passo] != botao_pressionado) {
       //efeito luminoso/sonoro indicando que o jogador perdeu
